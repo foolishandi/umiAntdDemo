@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "data|10": [
+    {
+      "id|+1": 1000,
+      "role|1": ["主管", "职员"],
+      "username": "@CNAME",
+      "age|20-40": 10,
+      "password|100000-999999": 100000,
+      "description|2": "@CSENTENCE"
+    }
+  ],
+  "superAdmin": {
+    "id": 1,
+    "role": "admin",
+    "username": "qq",
+    "age": 10,
+    "password": 123123,
+    "description": "超级管理员!"
+  },
+  "msg": "success"
+}
